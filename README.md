@@ -14,4 +14,4 @@ Where the index maps to the following
 
 [6][7][8]
 
-![Alt text](/readme/HeatMap.jpg?raw=true "HeatMap Example")
+![Alt text](/readme/HeatMap.png?raw=true "HeatMap Example")
